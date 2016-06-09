@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\stage\test\ble-test-v5\platforms\android\CordovaLib\assets"/></dataSet><dataSet config="release"><source path="F:\stage\test\ble-test-v5\platforms\android\CordovaLib\src\release\assets"/></dataSet></merger>
